@@ -1,6 +1,7 @@
 # Free VMware Workstation Pro 17 License Keys
 
-![image](https://github.com/user-attachments/assets/95b43704-31c7-4525-ac7a-a68d104689ab)
+![image](https://github.com/user-attachments/assets/f760b7d3-2f29-486c-822f-dd6dc40c08ad)
+
 
 ### Free VMware Workstation Pro 17 full License keys - (Yes✌️ You read it Right!! It's Free✌️😎)
 
@@ -102,7 +103,7 @@ also, I added more keys and MORE KEYS:
 
 ## Note
 
-VMware vSphere 6 and 7 ESXi Licence Keys Free!! : [Get it Here](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys)
+VMware vSphere 6 and 7 ESXi Licence Keys Free!! : [Get it Here](https://github.com/uziii2208/VMWare-ESXi-License-Key)
 <br> 
 <hr>
 <div align="center">
