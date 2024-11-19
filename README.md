@@ -1,28 +1,6 @@
 # Free VMware Workstation Pro 17 License Keys
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Key.svg?cache=remove)
-
-<br>
-
-[![Join-Now](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/assets/85627085/15a7b848-4d9e-49dd-a1a3-8942b1ae8fda)](https://t.me/resourcehub1)
-
-
-<br>
-
-# SUPPORT ME -- 🚩💲🙏
-
-### 🔑 Enjoying my "VMware Workstation Pro 17 License Keys" repo? It offers free evaluation or permanent local licenses for VMware products, saving you money for practice purposes. I've invested significant time in research and testing to ensure vulnerability-free keys. If you find it valuable, consider supporting my efforts with a coffee ☕️ or your best wishes. Your appreciation means a lot! 🙏🙏🙏
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
----
-
-# Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
-
-<br>
+![image](https://github.com/user-attachments/assets/95b43704-31c7-4525-ac7a-a68d104689ab)
 
 ### Free VMware Workstation Pro 17 full License keys - (Yes✌️ You read it Right!! It's Free✌️😎)
 
@@ -134,7 +112,7 @@ VMware vSphere 6 and 7 ESXi Licence Keys Free!! : [Get it Here](https://github.c
 <br>
 <br>
   
-[Bonus Free Active Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys/blob/main/VMware%20Workstation%20Pro%2017%20keys)
+[Bonus Free Active Keys](https://github.com/uziii2208/VMWare-Workstation-17-Pro-License-Keys/blob/main/VMware%20Workstation%20Pro%2017%20keys)
   
  
 <div align="center"/>
@@ -159,24 +137,22 @@ VMware Workstation is a virtualization program developed by VMware and allows yo
 
 ### Need Help
 
-we are always happy to help you...
-Steps to Follow: [click here](Installation-Steps.md)
-
-<br>
+- Organization : [Follow link](https://github.com/cyberskill-world)
+- Personal GitHub : [Follow link](https://github.com/uziii2208)
 
 ## Contact
 
 Feel free to contact me if you have any questions or suggestions.
+[Contact via Discord](https://discord.com/users/863239313268670486)
+
+[Contact via Steam](https://steamcommunity.com/id/corbiere)
 
 
-Telegram Group: [here](https://t.me/resourcehub1)
+## Creator [🔝](#VMware-Workstation-17-Pro-Licence-Keys)
 
+- [Creator here](https://github.com/uziii2208)
 
-## Creator [🔝](#VMware-Workstation-Pro-17-Licence-Key)
-
-(https://github.com/hegdepavankumar). Created by:-
-
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+<img src="https://github.com/uziii2208.png?size=115" width="115">
 
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
@@ -186,6 +162,6 @@ Telegram Group: [here](https://t.me/resourcehub1)
  <!-- Support Me --> 
 
 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f6a6e4e5-50e6-41d1-81b8-986edaa1a30e" alt="GIF Image">
+</div>
