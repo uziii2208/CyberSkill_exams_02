@@ -1,39 +1,7 @@
-# Free VMware Workstation Pro 17 License Keys
-
 ![image](https://github.com/user-attachments/assets/ee157398-e358-4502-be41-2a22da254ed3)
 
-
-### Free VMware Workstation Pro 17 full License keys - (Yes✌️ You read it Right!! It's Free✌️😎)
-
-Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
-
-# Highlights: 🚨
--  📍These license keys are exclusively for VMware Workstation Pro and are not compatible with VMware Workstation Player.📍
--  Also VMware Fusion-13 License Keys are also available...
-
-Install VMWare Workstation PRO 17 (Read it right. PRO!)
----
-
-
-- If you have a problem comment and people will try to help you!
-- No virus ⚠🛡
-- No spam just license key 🔐🔑
-- Even these keys are works below 17 or any further PRO versions ....🎊✨
-- 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
-
-
-## Doubts and Questions🙆‍♂️
-
- - If you have any doubts related to this or any other matter, please don't hesitate to let me know. I'm here to help! 😊
- - If you need any other free repo like this, please drop your idea on this group..
-  
-# If you've found our work helpful, I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us to improve. Thank you!
-
-<br>
-
- ## Recently added Keys...
-
-<hr>
+# Free VMware Workstation Pro 17 License Keys
+## Recently update (20/11/2024)
 
 | Number | Keys | Availability |
 |:------:|------------|:---------:|
@@ -64,44 +32,7 @@ Install VMWare Workstation PRO 17 (Read it right. PRO!)
 | 5 | `JU090-6039P-08409-8J0QH-2YR7F` | Active
 | 6 | `4Y09U-AJK97-089Z0-A3054-83KLA` | Active
 
-# Important Notice: Only For Practice  
-
-The resources provided in this repository, including any software or configurations, are intended for personal practice and educational purposes only. It is not recommended to use them in a production environment or any critical system.
-
-**Do's:**🟢
-- Use these resources for personal practice and learning purposes.
-- Experiment with different configurations in a non-production environment.
-
-**Don'ts:**🔴
-- Use these resources in a production environment or any mission-critical systems.
-- Rely on the provided configurations or software for business operations.
-
-By using the materials in this repository, you agree to use them responsibly and solely for personal practice. The author and contributors are not responsible for any issues or consequences arising from the use of these resources in a production setting.
-
-If you have any questions or concerns regarding the usage of these resources, please reach out to us.
-
-
- Thank you for using software responsibly and respecting the terms of service.
-
-
-<br>
-
-
-# How to Obtain a License Key
-
-- To use VMware Workstation Pro 17 legally, please consider purchasing a license directly from the official VMware website. 
-- This not only ensures that you have the legal right to use the software but also supports the developers in creating and maintaining this valuable tool.
-
-
-
-
-!!<br>
-
-<br>
-
-also, I added more keys and MORE KEYS: 
-
-## Note
+# More of VMware...
 
 VMware vSphere 6 and 7 ESXi Licence Keys Free!! : [Get it Here](https://github.com/uziii2208/VMWare-ESXi-License-Key)
 <br> 
@@ -124,41 +55,57 @@ VMware vSphere 6 and 7 ESXi Licence Keys Free!! : [Get it Here](https://github.c
  
 <br>
 
+
+# How to Obtain a License Key
+
+- To use VMware Workstation Pro 17 legally, please consider purchasing a license directly from the official VMware website. 
+- This not only ensures that you have the legal right to use the software but also supports the developers in creating and maintaining this valuable tool.
+
 ## Download VMware Workstation Pro
-
+```
 Download VMware Workstation Latest Version for Home Users or Professionals:
+```
+1. Workstation 17 Pro for Windows : [Download latest🔥](https://t.me/resourcehub1/3580)
+2. Workstation 17 Pro for Linux : [Download latest🔥](https://t.me/resourcehub1/3580)
+3. VMware Fusion 13 Pro for MacOS : [Download latest🔥](https://t.me/resourcehub1/3580)
 
-VMware Workstation is a virtualization program developed by VMware and allows you to run multiple virtual machines on your physical computer. With VMware Workstation you can set up and use a Windows, Linux, or even MacOS operating system. Although VMware Workstation is a paid program, it is one step ahead of its competitors. If you are a home user, you can download VMware WPlayer for free or Workstation Pro.
-
-"🚀 Ready to elevate your experience? Dive into the extraordinary with free, fully functional software! No strings attached, no registration required—just one click away from a world of possibilities. ✨ Start your journey now by experiencing the magic firsthand. Direct download awaits you! 🌟✨ [Start Your Free Adventure Here👇]"
-
-1. Workstation 17 Pro for Windows : [click here to download](https://t.me/resourcehub1/3580) [Latest🔥] 👈 
-2. Workstation 17 Pro for Linux : [click here to download](https://t.me/resourcehub1/3580) [Latest🔥] 👈 
-3. VMware Fusion 13 Pro for MacOS : [click here to download](https://t.me/resourcehub1/3580) [Latest🔥] 👈 
-
-### Need Help
-
-- Organization : [Follow link](https://github.com/cyberskill-world)
-- Personal GitHub : [Follow link](https://github.com/uziii2208)
-
+# Any issue?
+```
+- If you have a problem comment and people will try to help you!
+- No virus ⚠🛡
+- No spam just license key 🔐🔑
+- Even these keys are works below 17 or any further PRO versions ....🎊✨
+- 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
+```
 ## Contact
-
+```
 Feel free to contact me if you have any questions or suggestions.
-[Contact via Discord](https://discord.com/users/863239313268670486)
+```
+<div align="center">
+<p>
+  <img src="https://github.com/user-attachments/assets/72d9c8f7-cda9-431b-8e85-5c803f1d3dd4" width="32" alt="Facebook Icon"/>
+   <a href="https://www.facebook.com/corbierevn" style="text-decoration: none; font-size: 14px;">
+    Contact via Facebook
+  <img src="https://github.com/user-attachments/assets/72d9c8f7-cda9-431b-8e85-5c803f1d3dd4" width="32" alt="Facebook Icon"/>
+  </a>
+</p>
 
-[Contact via Steam](https://steamcommunity.com/id/corbiere)
+<p>
+  <img src="https://github.com/user-attachments/assets/613287bd-8296-45d7-840b-f2763691fe48" width="32" alt="Discord Icon"/>
+   <a href="https://discord.com/users/863239313268670486" style="text-decoration: none; font-size: 14px;">
+    Contact via Discord
+  <img src="https://github.com/user-attachments/assets/613287bd-8296-45d7-840b-f2763691fe48" width="32" alt="Discord Icon"/>
+  </a>
+</p>
 
-
-## Creator [🔝](#uziii2208/VMware-Workstation-17-Pro-Licence-Keys)
-
-- [Creator here](https://github.com/uziii2208)
-
-<img src="https://github.com/uziii2208.png?size=115" width="115">
-
-<br>
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<br>
-
+<p>
+  <img src="https://github.com/user-attachments/assets/27cea862-2a59-42a1-86e4-9e5ffb6f504f" width="32" alt="Steam Icon"/>
+   <a href="https://steamcommunity.com/id/corbiere" style="text-decoration: none; font-size: 14px;">
+    Contact via Steam
+  <img src="https://github.com/user-attachments/assets/27cea862-2a59-42a1-86e4-9e5ffb6f504f" width="32" alt="Steam Icon"/>
+  </a>
+</p>
+</div>
 
  <!-- Support Me --> 
 
